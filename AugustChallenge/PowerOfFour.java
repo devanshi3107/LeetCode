@@ -1,3 +1,8 @@
+/***********
+O(1) time complexity
+**************/
+
+
 class Solution {
     public boolean isPowerOfFour(int num) {
         double val=Math.log(num)/Math.log(4);
@@ -7,6 +12,4 @@ class Solution {
     }
 }
 
-/***********
-O(1) time complexity
-**************/
+
